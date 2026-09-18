@@ -1,7 +1,7 @@
 # techFinder-app
 NAS와 PC에 흩어진 HWP·PDF·이미지 속 업무자료와 텍스트까지 한 번에 찾는 무료 Windows 문서 검색 프로그램입니다.
 
-## 최신 버전: v1.4.0 · 2026-09-18
+## v1.4.0
 [v1.4.0 릴리스 및 업데이트 내역](https://github.com/yts19850201/techFinder-app/releases/tag/v1.4.0) · [Windows ZIP 다운로드](https://github.com/yts19850201/techFinder-app/releases/download/v1.4.0/TechFinder_Windows_v1.4.0_260918.zip)
 
 기존 v1.3.0 배포와 안내는 그대로 유지합니다. 새 버전은 별도 릴리스입니다.
@@ -13,7 +13,7 @@ NAS와 PC에 흩어진 HWP·PDF·이미지 속 업무자료와 텍스트까지 �
 
 ---
 
-## 이전 버전: v1.3.0 다운로드
+## v1.3.0
 
 **[이전 TechFinder v1.3.0 다운로드 (ZIP, 약 104 MB)](https://github.com/yts19850201/techFinder-app/releases/download/v1.3.0/TechFinder_Windows_v1.3.0_260917.zip)**
 
