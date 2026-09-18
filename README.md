@@ -30,3 +30,12 @@ Windows 64비트용입니다. Python 별도 설치와 AI API 토큰 비용이 �
 이 저장소는 **실행파일 배포 전용**입니다. 프로젝트 소스, 관리자 기능, 개인 검색 데이터는 포함하지 않습니다. 검색 자료는 사용자 PC에 저장됩니다.
 
 제작자: **아무튼최종본** · [티스토리](https://hagendaz-greentea.tistory.com/) · [블로거](https://hagendaz-greentea.blogspot.com/)
+
+
+## 2026-09-18 추가 업데이트: v1.4.0
+
+[새 v1.4.0 배포 및 업데이트 안내](https://github.com/yts19850201/techFinder-app/releases/tag/v1.4.0) · [Windows ZIP 다운로드](https://github.com/yts19850201/techFinder-app/releases/download/v1.4.0/TechFinder_Windows_v1.4.0_260918.zip)
+
+기존 v1.3.0 배포와 안내는 그대로 유지합니다. 새 버전은 별도 릴리스입니다.
+
+현재 코드 서명 미적용으로 Windows 경고가 표시될 수 있습니다. 공식 배포본을 신뢰하는 경우에만 **추가 정보 → 실행**을 선택하세요. 악성코드 탐지나 회사 정책 차단은 우회하지 마세요. **Windows 실행 경고와 설치 편의성을 개선하는 업데이트를 곧 제공할 예정**이며, 일정과 적용 방식은 확정 후 공지하겠습니다.
